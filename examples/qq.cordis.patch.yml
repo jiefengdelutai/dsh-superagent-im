@@ -1,0 +1,6 @@
+# This example enables both optional QQ plugins but contains no credentials.
+# Enter secrets only through the local DSH Superagent IM Sources settings.
+- id: dsh-superagent-im-qq-official
+  disabled: false
+- id: dsh-superagent-im-qq-onebot
+  disabled: false

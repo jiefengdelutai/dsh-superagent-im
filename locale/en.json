@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Superagent",
+    "description": "Receive authorized requests from GitHub, Feishu, and QQ, turn them into Tickets, and execute each in its own DSH Session."
+  }
+}

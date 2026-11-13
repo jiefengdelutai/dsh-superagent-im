@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Superagent",
+    "description": "接收 GitHub、飞书和 QQ 中获授权的请求，转为 Ticket，并在各自的 DSH 会话中执行。"
+  }
+}
